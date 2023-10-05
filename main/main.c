@@ -176,11 +176,6 @@ void output_oled()
 		ssd1306_bitmaps(&dev, 0, 32, sunnyEraser, 32, 32, true);
 		solecito = false;
 	}
-
-	//Output durísimo de logotipo - Not Check (No sé qué hay que hacer)
-
-
-
 }
 
 void output_leds()
