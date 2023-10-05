@@ -4,7 +4,7 @@ This is an example project for interfacing with an SSD1306 OLED display using th
 
 ## Dependencies
 
-This project depends on the [nopnop2002/esp-idf-ssd1306](https://github.com/nopnop2002/esp-idf-ssd1306) library. Make sure to install this library in your ESP-IDF development environment before compiling and running this code. You can find installation instructions in the provided link.
+This project depends on the [nopnop2002/esp-idf-ssd1306](https://github.com/nopnop2002/esp-idf-ssd1306) library. Make sure to install this component in your ESP-IDF development environment before compiling and running this code. You can find installation instructions in the provided link.
 
 ## Hardware Setup
 
