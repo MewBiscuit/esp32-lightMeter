@@ -10,6 +10,7 @@ This project depends on the [nopnop2002/esp-idf-ssd1306](https://github.com/nopn
 
 Connect your SSD1306 OLED display and LEDs to the GPIO pins as specified in the code. Ensure that the power supply and communication lines are correctly connected.
 
+```
 PIN OUTLAY:
 ---------------------
 ESP32     |    OLED
@@ -32,12 +33,7 @@ GPIO 12 -----> LED_5
 ESP32     |    PHOTORESISTOR
 ---------------------
 ADC1_CHANNEL_4 -----> PHOTORESISTOR
-
-
-
-
-
-
+```
 
 ## Functionality
 
