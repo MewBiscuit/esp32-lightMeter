@@ -2,6 +2,8 @@
 
 This is an example project for interfacing with an SSD1306 OLED display using the ESP-IDF framework. The project reads an analog input value from a photoresistor and displays it on the OLED screen along with a set of LED indicators and a sun icon to represent light levels. The LED indicators represent different light level thresholds.
 
+The project uses ESP-IDF as a development platform. Most of the code if not all of it is written in C.
+
 ## Dependencies
 
 This project depends on the [nopnop2002/esp-idf-ssd1306](https://github.com/nopnop2002/esp-idf-ssd1306) library.
